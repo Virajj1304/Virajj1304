@@ -2,7 +2,9 @@
 - 👀 I’m interested in web development and exploring new technologies 
 - 🌱 I’m currently learning Javascript to build dynamic and interactive web applications 
 - 💞️ I’m looking to collaborate on open-source projects or any exiciting web development ideas
-- 📫 How to reach me : sawantviraj856@gmail.com / linkedin: Viraj Sawant
+- 📫 How to reach me : sawantviraj856@gmail.com / linkedin: Viraj Sawant : www.linkedin.com/in/
+viraj-sawant-8923b52b2
+
 - ⚡ Fun fact: ...
 
 <!---
