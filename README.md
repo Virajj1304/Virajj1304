@@ -14,4 +14,38 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
+## Hi there! 👋
+
+I'm **Viraj Sawant**, a passionate developer exploring the world of programming. I love creating innovative solutions and learning new technologies. Let's connect and collaborate!
+
+## About Me
+
+Currently based in India, I am diving deep into various programming languages and frameworks. I am continually eager to learn and grow in the tech industry, focusing on web development and software engineering.
+
+## Skills & Technologies
+
+html,css,js,react,figma,github
+
+## GitHub Stats
+
+🌟 **Public Repositories:** 3
+👥 **Followers:** 1
+🔗 **Following:** 0
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Virajj1304&show_icons=true&theme=radical)
+
+## Recent Activity
+
+
+- Committed changes to [teacher-login-](https://github.com/Virajj1304/teacher-login-)
+- Pushed updates to [javascript](https://github.com/Virajj1304/javascript)
+
+## Latest Blog Posts
+
+Currently, I don't have any blog posts to share. Stay tuned!
+
+## Connect with Me
+
+Email: sawantviraj853@gmail.com
+
+
 
