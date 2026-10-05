@@ -68,6 +68,35 @@
 
 ###
 
+<div data-importer="stats" align="center">
+  <img src="https://raw.githubusercontent.com/Virajj1304/Virajj1304/stats-output/stats.svg?hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&order=1" height="139" alt="stats graph"  />
+  <img src="https://raw.githubusercontent.com/Virajj1304/Virajj1304/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=true&order=2&custom_title=Something%20I%20use" height="146" alt="languages graph"  />
+  <img src="https://raw.githubusercontent.com/Virajj1304/Virajj1304/trophy-output/trophy.svg?theme=dracula&column=-1&row=2&margin-w=2&margin-h=2&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
+  <img src="https://raw.githubusercontent.com/Virajj1304/Virajj1304/activity-graph-output/activity-graph.svg?radius=2&theme=react&area=true&order=5&custom_title=Nothing%20Cool&hide_border=true" height="280" alt="activity-graph graph"  />
+</div>
+
+###
+
+<br clear="both">
+
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Virajj1304/Virajj1304/pacman-output/breakout-contribution-graph-dark.svg?game=breakout">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Virajj1304/Virajj1304/pacman-output/breakout-contribution-graph.svg?game=breakout">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Virajj1304/Virajj1304/pacman-output/breakout-contribution-graph.svg?game=breakout">
+</picture>
+
+###
+
+<div data-importer="profile-views" align="center">
+  <img data-importer="profile-views" src="https://count.getloli.com/@:Virajj1304?theme=booru-smtg&padding=3&offset=1&scale=1&align=center&pixelated=1&darkmode=0"  />
+</div>
+
+###
+
+<img data-importer="snake" src="https://raw.githubusercontent.com/Virajj1304/Virajj1304/snake-output/snake.svg" alt="Snake animation" />
+
+###
+
 <div data-importer="music" align="center">
   <a href="https://open.spotify.com/user/31si3ewlgzjlmi5464h3kqvjzcpi ">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=31si3ewlgzjlmi5464h3kqvjzcpi%20&count=2" alt="Spotify recently played"  />
