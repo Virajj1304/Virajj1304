@@ -85,7 +85,7 @@
     srcset="https://raw.githubusercontent.com/Virajj1304/Virajj1304/pacman-output/breakout-contribution-graph-dark.svg?game=breakout"
   >
   <source
-    media="(prefers-color-scheme: light)"
+    media="(prefers-color-scheme: dark)"
     srcset="https://raw.githubusercontent.com/Virajj1304/Virajj1304/pacman-output/breakout-contribution-graph.svg?game=breakout"
   >
   <img
