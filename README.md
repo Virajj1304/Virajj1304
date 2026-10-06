@@ -69,7 +69,7 @@
 ###
 
 <div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/Virajj1304/Virajj1304/main/profile/stats.svg" height="139" alt="stats graph"  />
+  <img src="./profile/stats.svg" height="139" alt="stats graph"  />
   <img src="https://raw.githubusercontent.com/Virajj1304/Virajj1304/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=true&order=2&custom_title=Something%20I%20use" height="146" alt="languages graph"  />
   <img src="https://raw.githubusercontent.com/Virajj1304/Virajj1304/trophy-output/trophy.svg?theme=dracula&column=-1&row=2&margin-w=2&margin-h=2&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
   <img src="https://raw.githubusercontent.com/Virajj1304/Virajj1304/activity-graph-output/activity-graph.svg?radius=2&theme=react&area=true&order=5&custom_title=Nothing%20Cool&hide_border=true" height="280" alt="activity-graph graph"  />
